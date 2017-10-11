@@ -1,7 +1,7 @@
 Package.describe({
   name: 'numtel:pg',
   summary: 'PostgreSQL support with Reactive Select Subscriptions',
-  version: '1.0.2',
+  version: '1.0.2_1',
   git: 'https://github.com/numtel/meteor-pg.git'
 });
 
